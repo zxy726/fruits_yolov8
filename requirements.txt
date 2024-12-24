@@ -2,6 +2,7 @@ torch==2.5.1
 torchvision==0.20.1
 opencv-python==4.7.0.72
 numpy==1.26.4
+Pillow==9.5.0
 streamlit==1.26.0
 cvzone==1.6.1
 SpeechRecognition==3.12.0
