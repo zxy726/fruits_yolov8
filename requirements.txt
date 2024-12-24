@@ -1,6 +1,6 @@
 torch==2.5.1
 torchvision==0.20.1
-opencv-python==4.10.0.84
+opencv-python==4.7.0.72
 numpy==1.26.4
 streamlit==1.41.1
 cvzone==1.6.1
