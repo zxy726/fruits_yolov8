@@ -1,9 +1,8 @@
-python==3.10
 torch==2.5.1
 torchvision==0.20.1
 opencv-python==4.7.0.72
 numpy==1.26.4
-streamlit==1.41.1
+streamlit==1.26.0
 cvzone==1.6.1
 SpeechRecognition==3.12.0
 ultralytics==8.0.170
